@@ -1,0 +1,23 @@
+{
+    "extensions.autoCheckUpdates": false,
+    "update.enableWindowsBackgroundUpdates": false,
+    "extensions.autoUpdate": false,
+    "update.showReleaseNotes": false,
+    "update.mode": "none",
+
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Monokai",
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.fontSize": 16,
+    "editor.find.seedSearchStringFromSelection": "selection",
+    "window.commandCenter": false,
+    "workbench.startupEditor": "none",
+    "files.autoSave": "afterDelay",
+    "explorer.autoReveal": false,
+    "explorer.compactFolders": false,
+    "breadcrumbs.enabled": false,
+    "window.zoomLevel": 1,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "workbench.iconTheme": "material-icon-theme"
+}

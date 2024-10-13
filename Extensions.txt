@@ -1,0 +1,17 @@
+FRONTEND:
+
+Auto Rename Tag
+CSS Peek
+IntelliSence For CSS class names in HTML
+
+BACKEND:
+
+Pylance
+Pylint
+Python
+Python Debugger
+Django
+
+Sup rider:
+Material Icon Theme
+Russian Language Pack For Visual Studio Code
